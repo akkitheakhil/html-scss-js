@@ -40,9 +40,7 @@
     "style-loader": "^0.23.1",
     "copy-webpack-plugin": "^9.0.1",
     "concurrently": "^6.2.0",
-    "nodemon": "^2.0.9"
-  },
-  "dependencies": {
+    "nodemon": "^2.0.9",
     "live-server": "^1.2.1"
   }
 }
