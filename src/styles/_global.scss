@@ -1,0 +1,9 @@
+body {
+    background-color: $bg-color-primary;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    h1 {
+        color: $text-color-secondary;
+    }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "html-scss-js",
+  "version": "1.0.0",
+  "description": "A boilerplate code for HTML SCSS and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --watch",
+    "build": "webpack",
+    "server": "watch-http-server dist -o",
+    "start": "concurrently \"npm run dev\" \"npm run server\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akkitheakhil/html-scss-js.git"
+  },
+  "keywords": [
+    "HTML",
+    "SCSS",
+    "JavaScript"
+  ],
+  "author": "Akhil Padmanabhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akkitheakhil/html-scss-js/issues"
+  },
+  "homepage": "https://github.com/akkitheakhil/html-scss-js#readme",
+  "devDependencies": {
+    "sass": "^1.35.1",
+    "sass-loader": "^12.1.0",
+    "webpack": "^5.42.0",
+    "webpack-cli": "^4.7.2",
+    "autoprefixer": "^9.0.0",
+    "breakpoint-sass": "^2.7.1",
+    "css-loader": "^2.0.0",
+    "cssnano": "^4.0.5",
+    "node-sass": "^4.9.0",
+    "mini-css-extract-plugin": "^0.5.0",
+    "postcss-loader": "^3.0.0",
+    "style-loader": "^0.23.1",
+    "copy-webpack-plugin": "^9.0.1",
+    "watch-http-server": "^0.7.6",
+    "concurrently": "^6.2.0"
+  }
+}
