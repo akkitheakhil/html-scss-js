@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "webpack --watch",
     "build": "webpack",
-    "server": "watch-http-server dist -o",
+    "server": "live-server dist",
     "start": "concurrently \"npm run dev\" \"npm run server\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -39,7 +39,10 @@
     "postcss-loader": "^3.0.0",
     "style-loader": "^0.23.1",
     "copy-webpack-plugin": "^9.0.1",
-    "watch-http-server": "^0.7.6",
-    "concurrently": "^6.2.0"
+    "concurrently": "^6.2.0",
+    "nodemon": "^2.0.9"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
   }
 }

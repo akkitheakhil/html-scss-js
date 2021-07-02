@@ -1,9 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 body {
-    background-color: $bg-color-primary;
-    display: flex;
-    justify-content: center;
-    padding: 20px;
-    h1 {
-        color: $text-color-secondary;
-    }
+  background-color: $bg-color-primary;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  h1 {
+    color: $text-color-secondary;
+  }
 }
