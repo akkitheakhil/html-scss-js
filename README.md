@@ -43,4 +43,4 @@ To get a local copy up and running follow these simple example steps.
 
 Akhil Padmanabhan - speaktoakhilp@gmail.com
 
-Project Link: [https://github.com/akkitheakhil/html-scss-js/](https://github.com/akkitheakhil/Angular-Snake-Game/)
+Project Link: [https://github.com/akkitheakhil/html-scss-js/](https://github.com/akkitheakhil/html-scss-js/)
