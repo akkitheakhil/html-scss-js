@@ -11,6 +11,10 @@
 * SCSS
 * JavaScript
 
+### Demo Projects build using this boilerplate
+
+- Simple Calculator App -  https://github.com/akkitheakhil/neumorphic-calculator-js
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
