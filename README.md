@@ -11,6 +11,10 @@
 * SCSS
 * JavaScript
 
+### Demo Projects build using this boilerplate
+
+- Simple Calculator App -  https://github.com/akkitheakhil/neumorphic-calculator-js
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -43,4 +47,4 @@ To get a local copy up and running follow these simple example steps.
 
 Akhil Padmanabhan - speaktoakhilp@gmail.com
 
-Project Link: [https://github.com/akkitheakhil/html-scss-js/](https://github.com/akkitheakhil/Angular-Snake-Game/)
+Project Link: [https://github.com/akkitheakhil/html-scss-js/](https://github.com/akkitheakhil/html-scss-js/)
