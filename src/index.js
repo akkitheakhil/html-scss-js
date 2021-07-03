@@ -1,1 +1,5 @@
-console.log('App Running')
+import App from './app/app.js';
+
+const app = new App();
+
+app.appInit();
