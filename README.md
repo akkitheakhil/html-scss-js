@@ -14,7 +14,8 @@
 ### Demo Projects build using this boilerplate
 
 - Simple Calculator App -  https://github.com/akkitheakhil/neumorphic-calculator-js
-
+- Simple Calendar App -  https://github.com/akkitheakhil/neumo-calendar-js
+- 
 <!-- GETTING STARTED -->
 ## Getting Started
 
